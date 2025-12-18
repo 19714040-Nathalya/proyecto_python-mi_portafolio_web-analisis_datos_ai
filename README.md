@@ -5,4 +5,5 @@ Python
 Pandas
 ## Autor
 Nathaly Nicole Cubias Ayala
-[LinkedIn](www.linkedin.com/in/nathaly-nicole-cubías-ayala-34a174395)
+[LinkedIn]
+(www.linkedin.com/in/nathaly-nicole-cubías-ayala-34a174395)
